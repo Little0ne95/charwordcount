@@ -65,3 +65,9 @@ TinyMCE init configuration example
        toolbar_items_size: 'small'
     });
 
+
+
+Further information
+----------------------------
+You can find further information on this page:
+<http://adamscheller.com/libraries/tinymce-count-words-plugin/>
